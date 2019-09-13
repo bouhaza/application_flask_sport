@@ -44,8 +44,8 @@ app.config.update(
 def envoi_mail_inscription(email,prenom):
     
     #définir les API_KEY
-    api_key = '3c7d767dbc11a8a4b0b53962cd823d23'
-    api_secret = '7761428aea9ca5e3e6cab1419c89389b'
+    api_key = 'XXXXXXXXXXXXXXXXXX'
+    api_secret = 'XXXXXXXXXXXXXXXXXXX'
 
 
     mailjet = Client(auth=(api_key, api_secret), version='v3.1')
