@@ -22,5 +22,5 @@ requests==2.12.4
 SecretStorage==2.3.1
 six==1.10.0
 unattended-upgrades==0.1
-urllib3==1.19.1
+urllib3==1.26.5
 youtube-dl==2017.5.18.1
